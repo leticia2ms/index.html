@@ -1,0 +1,36 @@
+<doctype HTML5> 
+   
+    
+    <head>
+
+               <title>minha primeira pagina.leticia ferreira</title>
+
+    </head>
+0.24
+    <body>
+        
+             <h1>
+                  Leticia Oliveira Ferreira
+             </h1>
+
+              <p>
+                   Olá,meu nome é Leticia tenho 25 anos sou de São Paulo e atualmente moro em Orlando na Florida com meu marido e minhas duas filhas
+              </p>
+
+              <ul>
+                   Brincar no campo de golf com as minhas filhas 
+              </ul><br>
+
+              <ul>
+                    Treinar jiu-jítsu com meu marido 
+             </ul><br>
+
+              <ul>
+                     Ir para a praia com a minha familia
+              </ul>
+
+              <img src="" alt="">
+    </body>
+
+
+</doctype>
